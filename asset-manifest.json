@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b1fc444.css",
-    "main.js": "/static/js/main.667cd4f1.js",
-    "static/js/787.567ad5f1.chunk.js": "/static/js/787.567ad5f1.chunk.js",
-    "static/media/KoHo-Regular.ttf": "/static/media/KoHo-Regular.c4fff7ba0f88b9de6590.ttf",
-    "static/media/KoHo-Bold.ttf": "/static/media/KoHo-Bold.0a93fad2b57e407c6be3.ttf",
-    "index.html": "/index.html",
-    "main.9b1fc444.css.map": "/static/css/main.9b1fc444.css.map",
-    "main.667cd4f1.js.map": "/static/js/main.667cd4f1.js.map",
-    "787.567ad5f1.chunk.js.map": "/static/js/787.567ad5f1.chunk.js.map"
+    "main.css": "/drip/static/css/main.8c8e5997.css",
+    "main.js": "/drip/static/js/main.b8f7f7b1.js",
+    "static/js/787.567ad5f1.chunk.js": "/drip/static/js/787.567ad5f1.chunk.js",
+    "static/media/KoHo-Regular.ttf": "/drip/static/media/KoHo-Regular.c4fff7ba0f88b9de6590.ttf",
+    "static/media/KoHo-Bold.ttf": "/drip/static/media/KoHo-Bold.0a93fad2b57e407c6be3.ttf",
+    "index.html": "/drip/index.html",
+    "main.8c8e5997.css.map": "/drip/static/css/main.8c8e5997.css.map",
+    "main.b8f7f7b1.js.map": "/drip/static/js/main.b8f7f7b1.js.map",
+    "787.567ad5f1.chunk.js.map": "/drip/static/js/787.567ad5f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b1fc444.css",
-    "static/js/main.667cd4f1.js"
+    "static/css/main.8c8e5997.css",
+    "static/js/main.b8f7f7b1.js"
   ]
 }
